@@ -102,7 +102,7 @@ Solved 10 business problems using Microsoft SQL Server.
 ##  Dashboard Preview
 
 ### Customer Shopping Behavior Dashboard
-![Dashboard](SCREENSHOTS/customer_behavior_dashboard.png)
+![Dashboard](SCREENSHOT/customer_behavior_dashboard.png)
 
 ---
 
