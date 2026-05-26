@@ -12,7 +12,7 @@ customer-shopping-behavior/
 ├── customer_behaviour.ipynb              # Python EDA & Preprocessing
 ├── customer_shopping_behaviour.sql       # MSSQL Business Queries
 ├── customer_behavior_dashboard.pbix      # Power BI Dashboard
-├── SCREENSHOTS/
+├── SCREENSHOT/
 │   └── customer_behavior_dashboard.png
 └── README.md
 ```
